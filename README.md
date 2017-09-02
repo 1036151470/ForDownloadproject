@@ -13,7 +13,7 @@ ForDownloadproject
 
 
 ## 快速开始
-* 本程序为maven项目，所有首先需要下载和配置好maven。http://maven.apache.org/download.cgi
+* 本程序为maven项目，所以首先需要下载和配置好maven。http://maven.apache.org/download.cgi
 * 返回本程序项目主页点击右上角按钮进行下载
 * 解压项目
 * 使用命令 mvn clean package构建项目
